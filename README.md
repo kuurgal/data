@@ -1,1 +1,1 @@
-This repository contains a list of all data and analysis supporting the data stories posted at Kuurgal
+This repository contains a list of all data and analysis supporting the data stories posted at Kuurgal. If you have any questions or feedback about this work, please contact Maxamed Dool at kuurgal@gmail.com. Thank you.
